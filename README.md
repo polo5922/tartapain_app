@@ -15,7 +15,7 @@ Ce projet est a la fois un projet professionnel ainsi que un projet d'école
 j'ai utilisé pour ce projet toute les information ci dessous
 
  - [Flutter website](https://flutter.dev) 
- -  [Flutter docs](https://flutter.dev/docs) 
+ - [Flutter docs](https://flutter.dev/docs) 
  - [StackOverflow](https://stackoverflow.com/)
 
 
@@ -45,6 +45,7 @@ J'arrive donc a personnaliser ma page de detail relativement par rapport a mon i
 
 je travaille ensuite sur mon interface de page d'acceuil avec des card defilant 
 je crée donc plusieur widget Custom pour arriver a mieux gerer la generation de ma view grace a des appel sur mon api ce qui donne un resultat comme celui ci
-![enter image description here](https://i.ibb.co/0yfXXxh/ezgif-7-c86604f56ac1.gif)  
+![Github ne me permet pas de mêtre cet gif de presentation je vous met le lient ici](https://i.ibb.co/0yfXXxh/ezgif-7-c86604f56ac1.gif)  
+https://i.ibb.co/0yfXXxh/ezgif-7-c86604f56ac1.gif
 
 Comme on peut le voir juste ici tout les produits sont automatiquement récuperer sur mon api pour avoir une syncronisation avec ma BDD et tout est customisable comme vous pouvez le voir sur mon code 
