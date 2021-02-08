@@ -71,6 +71,12 @@ class _DetailPageState extends State<DetailPage> {
     );
   }
 
+
+  addItems(id,userID)
+  {
+    
+  }
+
   AppBar buildAppBar() {
     return AppBar(
       elevation: 0,
